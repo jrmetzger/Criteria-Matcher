@@ -1,5 +1,5 @@
 # Criteria Matcher
-The assignment was to create an application to match Testers based on search Criteria. I took a different approach by viewing the criteria on the table, then inserting it into the Results table. This is then pushed into a log when exiting the application for the user to analyze. This application focuses on individual searches to added to a list. The action I omitted was to organize the listbox by experience. Based on my design, it was cleaner to list the results by addition than by number.
+The assignment was to create an application to match Testers based on search Criteria. I took a different approach by viewing the criteria on the table, then inserting it into the Results table. This is then pushed into a log when exiting the application for the user to analyze. This application focuses on individual searches to be added to a list. The action I omitted was to organize the listbox by experience. Based on my design, it was cleaner to list the results by addition than by number sorting. I have included the menu bar to later include additional components.
 
 ## Author
 Jonathan Metzger
@@ -8,7 +8,7 @@ Jonathan Metzger
 ```
 $ python main.py
 ```
-A user can select a User or Country following by Updating the Table and/or Adding to Results. They have the option to select a device to specify the search criteria.
+A user can select a User or Country followed by Updating the Table and/or Adding to Results. They have the option to select a device, or only a device without the previous specification, to specify the search criteria.
 - Updating the table prints the criteria on the table below
 - Adding to Results prints experience count to results and clears the table/search criteria
 - Reset Table resets the tablet to initial search engine
