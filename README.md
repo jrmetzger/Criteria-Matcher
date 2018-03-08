@@ -4,6 +4,12 @@ The assignment was to create an application to match Testers based on search Cri
 ## Author
 Jonathan Metzger
 
+## Pre-requisites
+'''
+install brewery
+install untangle
+''''
+
 ## Running the Application
 ```
 $ python main.py
