@@ -5,10 +5,12 @@ The assignment was to create an application to match Testers based on search Cri
 Jonathan Metzger
 
 ## Pre-requisites
-'''
+```
 install brewery
+```
+```
 install untangle
-''''
+```
 
 ## Running the Application
 ```
