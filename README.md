@@ -45,6 +45,8 @@ A user can select a User or Country followed by Updating the Table and/or Adding
 - [X] Data: Tester1, Tester2, etc. onto Result Table
 - [X] Result: "User's Name: Experience"
 - [X] Logging
+- [ ] Multiple Selection
+- [ ] Rolled up table based on tester_device.csv 
 - [ ] Rank Experience
 
 ## Functions
